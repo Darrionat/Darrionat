@@ -23,4 +23,4 @@
 [songoda]: https://songoda.com/profile/darrionat
 [github]: https://github.com/Darrionat
 [instagram]: https://instagram.com/darrionthornburgh
-[discord]: https://discord.darrionatplugins.com
+[discord]: https://discord.com/invite/xNKrH5Z
