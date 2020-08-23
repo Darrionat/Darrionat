@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, and Photographer
 
 - 🌎 My plugins can be found on [SpigotMC][spigot], [Bukkit][bukkit], and [Songoda][songoda]!
-- ❓ If you have questions, I have a [wiki][wiki] for my plugins and Discord bot!
+- ❓ If you have questions, I have a [wiki][wiki] for my plugins and Discord bot! You can also join my [Discord server][discord] for support!
 
 ### Connections:
 
@@ -14,6 +14,8 @@
 [<img align="left" alt="Darrionat | Songoda" width="22px" src="https://songoda.com/img/favicon/apple-icon-57x57.png" />][songoda]
 [<img align="left" alt="Darrionat | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 [<img align="left" alt="Darrionat | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="Darrionat | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
+
 
 [wiki]: https://wiki.darrionatplugins.com
 [spigot]: https://www.spigotmc.org/members/darrionat.127312/
@@ -21,3 +23,4 @@
 [songoda]: https://songoda.com/profile/darrionat
 [github]: https://github.com/Darrionat
 [instagram]: https://instagram.com/darrionthornburgh
+[discord]: https://discord.darrionatplugins.com
