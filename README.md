@@ -6,7 +6,8 @@
 - 🌎 My plugins can be found on [SpigotMC][spigot], [Bukkit][bukkit], and [Songoda][songoda]!
 - ❓ If you have questions, I have a [wiki][wiki] for my plugins and Discord bot! You can also join my [Discord server][discord] for support!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darrionat&layout=compact)](https://github.com/darrionat/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darrionat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connections:
 
