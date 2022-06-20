@@ -15,7 +15,7 @@
 [<img align="left" alt="Darrionat | SpigotMC" width="22px" src="https://static.spigotmc.org/img/spigot.png" />][spigot]
 [<img align="left" alt="Darrionat | Bukkit" width="22px" src="http://i.imgur.com/igYbvzR.png" />][bukkit]
 [<img align="left" alt="Darrionat | Songoda" width="22px" src="https://songoda.com/img/favicon/apple-icon-57x57.png" />][songoda]
-[<img align="left" alt="Darrionat | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
+[<img align="left" alt="Darrionat | GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/615px-GitHub_Mark.png?20201016163101" />][github]
 [<img align="left" alt="Darrionat | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />][instagram]
 [<img align="left" alt="Darrionat | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
 
