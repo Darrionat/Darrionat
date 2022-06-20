@@ -16,7 +16,6 @@
 [<img align="left" alt="Darrionat | Bukkit" width="22px" src="http://i.imgur.com/igYbvzR.png" />][bukkit]
 [<img align="left" alt="Darrionat | Songoda" width="22px" src="https://songoda.com/img/favicon/apple-icon-57x57.png" />][songoda]
 [<img align="left" alt="Darrionat | GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/615px-GitHub_Mark.png?20201016163101" />][github]
-[<img align="left" alt="Darrionat | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" />][instagram]
 [<img align="left" alt="Darrionat | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
 
 
@@ -25,5 +24,4 @@
 [bukkit]: https://dev.bukkit.org/members/darrionat/projects
 [songoda]: https://songoda.com/profile/darrionat
 [github]: https://github.com/Darrionat
-[instagram]: https://instagram.com/darrionthornburgh
 [discord]: https://discord.com/invite/xNKrH5Z
