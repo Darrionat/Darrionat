@@ -11,6 +11,7 @@ Some primary research interests are in topology and finite geometry.
 
 ## Plugins
 If you are here for information about any plugins that I have made in the past, please refer to my [wiki][wiki].
+
 [![Website](https://img.shields.io/website?label=Plugins%20Wiki&style=for-the-badge&url=https://wiki.darrionatplugins.com)](https://wiki.darrionatplugins.com)
 
 ### Connections:
