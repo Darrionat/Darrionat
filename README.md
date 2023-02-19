@@ -5,6 +5,8 @@
 I'm a student at Bard College studying Mathematics & Computer Science.
 I am interested in mathematical research.
 Some primary research interests are in topology and finite geometry.
+I recently was a co-author on a paper which is to appear in *La Matematica*.
+This paper is about the affine geometry of the card game EvenQuads, and you can find it [here][quadspaper].
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darrionat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,3 +32,4 @@ If you are here for information about any plugins that I have made in the past, 
 [songoda]: https://songoda.com/profile/darrionat
 [github]: https://github.com/Darrionat
 [discord]: https://discord.com/invite/xNKrH5Z
+[quadspaper]: https://arxiv.org/abs/2212.05353
