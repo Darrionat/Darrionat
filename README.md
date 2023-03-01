@@ -21,7 +21,6 @@ If you are here for information about any plugins that I have made in the past, 
 [<img align="left" alt="wiki.darrionatplugins.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][wiki]
 [<img align="left" alt="Darrionat | SpigotMC" width="22px" src="https://static.spigotmc.org/img/spigot.png" />][spigot]
 [<img align="left" alt="Darrionat | Bukkit" width="22px" src="https://media.forgecdn.net/avatars/thumbnails/65/443/48/48/636162895990633284.png" />][bukkit]
-[<img align="left" alt="Darrionat | Songoda" width="22px" src="https://www.songoda.com/assets/logo.png" />][songoda]
 [<img align="left" alt="Darrionat | GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/615px-GitHub_Mark.png?20201016163101" />][github]
 [<img align="left" alt="Darrionat | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
 
@@ -29,7 +28,6 @@ If you are here for information about any plugins that I have made in the past, 
 [wiki]: https://wiki.darrionatplugins.com
 [spigot]: https://www.spigotmc.org/members/darrionat.127312/
 [bukkit]: https://dev.bukkit.org/members/darrionat/projects
-[songoda]: https://songoda.com/profile/darrionat
 [github]: https://github.com/Darrionat
 [discord]: https://discord.com/invite/xNKrH5Z
 [quadspaper]: https://arxiv.org/abs/2212.05353
