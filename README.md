@@ -8,7 +8,7 @@ Some of my primary research interests are in topology, finite geometry, and cryp
 You can find my website [here][website].
 
 ## Plugins
-If you are here for information about any plugins that I have made in the past, please refer to my [wiki][wiki].
+If you are here for information about any Spigot/Bukkit plugins that I have made in the past, please refer to my [wiki][wiki].
 
 [website]: https://sites.google.com/view/darrion-thornburgh
 [wiki]: https://wiki.darrionatplugins.com
