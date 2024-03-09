@@ -10,5 +10,5 @@ You can find my website [here][website].
 ## Plugins
 If you are here for information about any Spigot/Bukkit plugins that I have made in the past, please refer to my [wiki][wiki].
 
-[website]: https://sites.google.com/view/darrion-thornburgh
+[website]: https://darrion.net
 [wiki]: https://wiki.darrionatplugins.com
