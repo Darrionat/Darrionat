@@ -1,4 +1,4 @@
-### Hey! I'm Darrion - aka Darrionat 👋
+### Hey! I'm Darrion - aka Darrionat
 
 ## About Me
 
